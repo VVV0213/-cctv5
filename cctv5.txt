@@ -1,0 +1,3 @@
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV5,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+http://39.134.66.66/PLTV/88888888/224/3221225818/index.m3u8
